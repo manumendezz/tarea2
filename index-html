@@ -1,0 +1,73 @@
+  <title>Tecnologías Emergentes</title>
+ </head>
+<body>
+    <header>
+        <h1>Tecnologías Emergentes: BLOCKCHAIN</h1>
+    </header>
+    <main>
+        <section>
+            <h2>¿QUÉ ES EL BLOCKCHAIN?</h2>
+            <style>
+        
+        h2 {
+            color: rgb(0, 232, 15);
+        }  
+        
+        #rabbits-info-heading {
+            background-color: purple;
+        }
+        
+        p {
+            color: rgb(191, 0, 255);
+        }
+        
+        .song-lyrics {
+            background-color: yellow;
+        }
+        
+        </style>
+    </head>
+    <body>
+
+    
+    <h2 id="rabbits-info-heading">BLOCKCHAIN:</h2>
+       <style>
+        
+        h2 {
+            color: rgb(0, 232, 15);
+        }  
+         body {
+            background-color: rgb(97, 250, 255);
+        }
+            
+        </style>
+
+    
+            <p><p class="song-lyrics">
+                Blockchain se puede definir como una estructura matemática para almacenar datos de una manera que es casi imposible de falsificar. Es un libro electrónico público que se puede compartir abiertamente entre usuarios dispares y que crea un registro inmutable de sus transacciones.
+                Blockchain solo se puede actualizar por consenso entre los participantes en el sistema, y cuando se ingresan datos nuevos, nunca se pueden borrar. Existe un registro verdadero y verificable de todas y cada una de las entradas realizadas en el sistema.
+                La base de datos de blockchain no se almacena en una sola ubicación, lo que significa que los registros que guarda son verdaderamente públicos y fácilmente verificables. No existe una versión centralizada de esta información para que un hacker pueda corromperla.
+                Blockchain, se puede comparar con una hoja de cálculo que se haya duplicado miles de veces en una red de ordenadores. Cada vez que algún miembro de la red realiza una transacción digital, dicha transacción genera unos datos asociados que quedaran almacenados en uno de los bloques. Cuando ese bloque está completo de información, el bloque se acopla a la cadena de bloques ya existente o blockchain.
+
+
+   
+   
+ 
+               
+
+            </p>
+        </section>
+        <section>
+            <h2>Ejemplos destacados</h2>
+            <ul>
+                <li><strong>SEGURIDAD CON BLOCKCHAIN:</strong> más seguro que el sistema de contraseña y nombre de usuario estándar.Extremadamente difícil hackearlos</li>
+                <li><strong>DESCENTRALIZACIÓN Y CONTRATOS INTELIGENTES EN BLOCKCHAIN:</strong> automatiza pagos y transferencias, se puede pagar una factura de electricidad una vez que el consumo alcance cierta cantidad. La transacción se enviaría de forma segura a la compañía eléctrica y se verificaría mediante blockchain.</li>
+                <li><strong>VELOCIDAD Y EFICIENCIA DE BLOCKCHAIN:</strong>  rápido y eficiente,ahorrar tiempo y costos de administración.</li>
+  <img src="https://img.freepik.com/foto-gratis/ilustracion-dibujos-animados-tecnologia-blockchain_23-2151572129.jpg?t=st=1734008623~exp=1734012223~hmac=065051f7433bc60ceef4f26fcf210dc5088894376bf9e9755bb979f10fa8d07a&w=1060"<div style=width:300px;height:300px;background-color:red;”/> 
+   
+    <img src="https://img.freepik.com/foto-gratis/diseno-renderizado-criptomonedas-3d_23-2149074561.jpg?t=st=1734008739~exp=1734012339~hmac=6b77fb53a19dd1a61934f033c8084bf09703fe8c4d5e01b3b74b45994160dafc&"<div style=width:300px;height:300px;background-color:red;”/>         
+      <a href=https://ticnegocios.camaravalencia.com/servicios/tendencias/blockchain-que-es-y-que-ventajas-tiene/>ENLACE A GOOGLE<a>                    
+            
+    </main>
+</body>
+</html>
